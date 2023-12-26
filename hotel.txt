@@ -1,2 +1,2 @@
 Feature1 changes in hotel.txt
-Hotel Hyatta,Redmond
+Hotel Hyatta,Bellevue
